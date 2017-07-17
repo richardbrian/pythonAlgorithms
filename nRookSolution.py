@@ -1,6 +1,6 @@
 # Standalone algorithm for nRookProblem
 from timeit import default_timer as timer
-MatrixSize = (8,8)
+MatrixSize = (9,9)
 totalSol = 0
 totalSteps = 0
 linearLoop = 0
