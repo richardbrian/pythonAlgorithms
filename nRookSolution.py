@@ -1,3 +1,4 @@
+# Standalone algorithm for nRookProblem
 from timeit import default_timer as timer
 MatrixSize = (8,8)
 totalSol = 0
